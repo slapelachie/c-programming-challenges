@@ -1,0 +1,4 @@
+* C Programming Challenges
+A repository containing all the challenges I have completed while learning C.
+
+[[file:challenges.jpg]]
